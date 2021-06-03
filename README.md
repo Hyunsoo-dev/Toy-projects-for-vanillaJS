@@ -3,3 +3,4 @@
 
 - [Form validator](https://github.com/Hyunsoo-dev/Toy-projects-for-vanillaJS/tree/main/Form_validator)
 - [Movie-Seat-Booking](https://github.com/Hyunsoo-dev/Toy-projects-for-vanillaJS/tree/main/Movie-Seat-Booking)
+- [Shopping list](https://github.com/Hyunsoo-dev/Toy-projects-for-vanillaJS/tree/main/Shopping%20list)
