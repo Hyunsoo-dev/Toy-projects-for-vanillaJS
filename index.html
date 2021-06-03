@@ -5,24 +5,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <title>Shopping List</title>
-  </head>
-  <body>
-    <div class="container">
-      <div class="title">Shopping List</div>
-      <div class="itemContainer">
-        <!-- <div class="item"></div>
-        <div class="itemOption"></div> -->
-      </div>
-      <input type="text" />
-      <div class="buttonContainer">
-        <button id="checkButton"><i class="fas fa-plus"></i></button>
-      </div>
-    </div>
-    <script src="index.js"></script>
+    <script defer src="index.js"></script>
     <script
       src="https://kit.fontawesome.com/f7071e7aca.js"
       crossorigin="anonymous"
     ></script>
+    <title>Shopping List</title>
+  </head>
+  <body>
+    <section class="list">
+      <header class="header">Shopping List</header>
+      <ul class="items"></ul>
+      <footer class="footer">
+        <input type="text" class="footer__input" />
+        <button class="footer__button">
+          <i class="fas fa-plus"></i>
+        </button>
+      </footer>
+    </section>
   </body>
 </html>
